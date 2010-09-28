@@ -9,6 +9,10 @@
  *   opacity:0;
  *   filter:alpha(opacity=0); // IE
  *
+ * Usage:
+ *
+ * $("input[type=checkbox]").fancy();
+ *
  */
 (function($) {
 
