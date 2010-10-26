@@ -4,6 +4,6 @@ jquery-plugins
 
   Adds support for custom checkboxes w/ sprites for its states.
 
-* jquery.placeholder.js
+* jquery.input-placeholder.js
 
   Adds support for HTML5's "placeholder" attribute to browser which don't support it yet.
