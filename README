@@ -6,4 +6,4 @@ jquery-plugins
 
 * jquery.input-placeholder.js
 
-  Adds support for HTML5's "placeholder" attribute to browser which don't support it yet.
+  Adds support for HTML5's "placeholder" attribute to browsers which don't support it yet.
